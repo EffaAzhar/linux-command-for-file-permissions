@@ -25,7 +25,6 @@ drwxrwxrwx....> *directory *user,group and owner have write,read and execute per
 --------wx....> *file      *other lacks read permission
 ---------x....> *file      *other lacks read & write permissions
 ----------....> *file      *other lacks read,write & execute permissions
-#numerical representation of permission
 
 # Types of File Ownership
 * **Owner:** The user who created the file.
